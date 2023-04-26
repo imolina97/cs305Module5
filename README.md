@@ -17,4 +17,4 @@ This will compile, provide all warnings, and create an output ".exe" program, ti
 This project will be licensed under a GNU General Public License (GPL).
 
 ## Contributing
-To contribute, simply provide a pull request for review.
+To contribute, simply provide a pull request for review. Please see CONTRIBUTING.md contents for more info on what to contribute.
