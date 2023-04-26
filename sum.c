@@ -7,6 +7,9 @@ int main()
   // initialize program
   int num1 = 5, num2 = 6;
   
+  // print a message
+  printf("This program prints out the sum of 5 and 6");
+  
   // print sum of numbers
   printf("The sum is: %d\n", num1 + num2);
   
